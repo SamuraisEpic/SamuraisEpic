@@ -2,7 +2,7 @@
 - i'm an avid supporter of free software (no matter the cost)
 - i’m interested in FPS games, Linux, and some other stuff
 - currently, i'm learning python, and hope to do some c# soon.
-- you can reach me on discord (@samuraisepic), or if you feel like it, on steam (also linked) or xbox live (@SamuraisEpic).
+- you can reach me on discord (@samuraisepic), or if you feel like it, on steam or xbox live (@SamuraisEpic).
 - thanks for stopping by
 
 <!---
